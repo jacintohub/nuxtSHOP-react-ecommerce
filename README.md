@@ -1,3 +1,13 @@
+<h1>DEMO - NUXT SHOP | REACT E-COMMERCE</h1>
+<hr/>
+<H5><a href="https://nuxt-shop-silk.vercel.app" target="_blank">https://nuxt-shop-silk.vercel.app</a></H5>
+<br />
+
+<img src="https://cdn.discordapp.com/attachments/1063696898017476649/1089399370564247552/image.png" alt="Project overview" />
+<br/>
+<hr/>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
